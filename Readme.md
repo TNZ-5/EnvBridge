@@ -1,5 +1,5 @@
 
-[![Contributors][https://img.shields.io/github/all-contributors/TNZ-5/EnvBridge?style=for-the-badge] 
+[ ! [ Contributors ] [ https://img.shields.io/github/all-contributors/TNZ-5/EnvBridge?style=for-the-badge ] 
 
 ![Forks][https://img.shields.io/github/forks/TNZ-5/EnvBridge?style=social]     ![Issues][https://img.shields.io/github/issues/TNZ-5/EnvBridge?style=social]     ![MIT][https://img.shields.io/github/license/TNZ-5/EnvBridge?style=social]
 
